@@ -1,0 +1,3908 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="534.14087"
+   height="860"
+   viewBox="0 0 141.32477 227.54167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="simplevga-source-code-decoupage.svg"
+   inkscape:export-filename="/home/fred/Documents/Codeurs en Seine/FPGA/background/template-slide4.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1809"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#f5f1ed;fill-opacity:1;fill-rule:evenodd;stroke:#f5f1ed;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1807"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1803"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1801"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#f5f1ed;fill-opacity:1;fill-rule:evenodd;stroke:#f5f1ed;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1795"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#f5f1ed;fill-opacity:1;fill-rule:evenodd;stroke:#f5f1ed;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1793"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1576"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#f5f1ed;fill-opacity:1;fill-rule:evenodd;stroke:#f5f1ed;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9699"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9697"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:#dad2bc;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9633"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#a99985;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9631"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9501"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#70798c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9499"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9483"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9481"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:#dad2bc;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9463"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9461"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:#dad2bc;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5940"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5938"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5883"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5881"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#a99985;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5820"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5818"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#70798c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5816"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#70798c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5814"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5807"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5805"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#70798c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5410"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5717"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5715"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5704"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#a99985;fill-opacity:1;fill-rule:evenodd;stroke:#a99985;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5702"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5676"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5674"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#a99985;fill-opacity:1;fill-rule:evenodd;stroke:#a99985;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="lattice2"
+       gridpoint0="716.33082,93.608143"
+       gridpoint1="777.96625,93.608143"
+       gridpoint2="716.33082,192.66976"
+       gridpoint3="777.96625,192.66976"
+       gridpoint4="731.73968,93.608143"
+       gridpoint5="762.55739,93.608143"
+       gridpoint6="731.73968,192.66976"
+       gridpoint7="762.55739,192.66976"
+       gridpoint8x9="747.14853,93.608143"
+       gridpoint10x11="747.14853,192.66976"
+       gridpoint12="716.33082,118.37355"
+       gridpoint13="777.96625,118.37355"
+       gridpoint14="716.33082,167.90436"
+       gridpoint15="777.96625,167.90436"
+       gridpoint16="729.07696,115.74326"
+       gridpoint17="766.10158,111.93561"
+       gridpoint18="723.66847,175.64326"
+       gridpoint19="767.01147,178.0486"
+       gridpoint20x21="747.45856,111.76945"
+       gridpoint22x23="746.04009,177.2887"
+       gridpoint24x26="716.33082,143.13895"
+       gridpoint25x27="777.96625,143.13895"
+       gridpoint28x30="723.23683,142.30408"
+       gridpoint29x31="769.50192,142.9748"
+       gridpoint32x33x34x35="747.14853,143.13895"
+       id="path-effect4754"
+       is_visible="true"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       live_update="true" />
+    <inkscape:path-effect
+       effect="transform_2pts"
+       start="716.33082,143.13895"
+       end="765.83405,118.49976"
+       id="path-effect1049"
+       is_visible="true"
+       first_knot="1"
+       last_knot="2"
+       helper_size="3"
+       stretch="1"
+       offset="0"
+       elastic="false"
+       from_original_width="true"
+       flip_vertical="false"
+       flip_horizontal="false"
+       lock_lenght="false"
+       lock_angle="false" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect1047"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 716.33082,93.608143 h 61.63543"
+       bendpath2="m 777.96625,93.608143 c 17.77227,35.359587 14.85507,67.996187 0,99.061617"
+       bendpath3="m 716.33082,192.66976 h 61.63543"
+       bendpath4="M 0,0 H 1"
+       bendpath2-nodetypes="cc"
+       bendpath4-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect1045"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 716.33082,93.608143 c 22.20796,-7.503291 43.18633,-9.458195 61.63543,0"
+       bendpath2="m 777.96625,93.608143 c 20.01525,35.511287 22.46688,68.836917 0,99.061617"
+       bendpath3="m 716.33082,192.66976 c 19.66713,7.99239 40.17979,8.2881 61.63543,0"
+       bendpath4="m 716.33082,93.608143 c -51.15035,40.954247 -29.52387,70.620397 0,99.061617"
+       bendpath1-nodetypes="cc"
+       bendpath2-nodetypes="cc"
+       bendpath3-nodetypes="cc"
+       bendpath4-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect1318"
+       is_visible="true"
+       bendpath="m 716.33082,143.13895 h 61.63543"
+       prop_scale="1.2291938"
+       scale_y_rel="false"
+       vertical="false" />
+    <inkscape:path-effect
+       effect="lattice2"
+       gridpoint0="716.33082,93.608143"
+       gridpoint1="777.96625,93.608143"
+       gridpoint2="716.33082,192.66976"
+       gridpoint3="777.96625,192.66976"
+       gridpoint4="731.73968,93.608143"
+       gridpoint5="762.55739,93.608143"
+       gridpoint6="731.73968,192.66976"
+       gridpoint7="762.55739,192.66976"
+       gridpoint8x9="747.14853,93.608143"
+       gridpoint10x11="747.14853,192.66976"
+       gridpoint12="716.33082,118.37355"
+       gridpoint13="777.96625,118.37355"
+       gridpoint14="716.33082,167.90436"
+       gridpoint15="777.96625,167.90436"
+       gridpoint16="731.73968,118.37355"
+       gridpoint17="762.55739,118.37355"
+       gridpoint18="731.73968,167.90436"
+       gridpoint19="762.55739,167.90436"
+       gridpoint20x21="747.14853,118.37355"
+       gridpoint22x23="747.14853,167.90436"
+       gridpoint24x26="716.33082,143.13895"
+       gridpoint25x27="777.96625,143.13895"
+       gridpoint28x30="731.73968,143.13895"
+       gridpoint29x31="762.55739,143.13895"
+       gridpoint32x33x34x35="747.14853,143.13895"
+       id="path-effect1314"
+       is_visible="true"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       live_update="true" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12009"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path12007"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11879"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11877"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10848"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10846"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10742"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10740"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10067"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path10065"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9973"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9971"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8858"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8856"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8758"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8756"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6913"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6904"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8296-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8294-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8372-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8370-4" />
+    </marker>
+    <clipPath
+       id="clipPath3694">
+      <path
+         id="path3696"
+         d="M 0,774.03 H 594 V 0.03 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3738">
+      <path
+         id="path3740"
+         d="M 0,774.03 H 594 V 0.03 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3044">
+      <path
+         id="path3046"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3050">
+      <path
+         id="path3052"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3064">
+      <path
+         id="path3066"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3070">
+      <path
+         id="path3072"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3082">
+      <path
+         id="path3084"
+         d="M 685.50301,533.52901 H 1291.5 V 868.5 H 685.50301 V 533.52901"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3088">
+      <path
+         id="path3090"
+         d="M 674.496,58.5 H 1291.5 v 810 H 674.496 v -810"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3094">
+      <path
+         id="path3096"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3100">
+      <path
+         id="path3102"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3112">
+      <path
+         id="path3114"
+         d="M 692.51401,207.504 H 1291.5 V 535.536 H 692.51401 V 207.504"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3118">
+      <path
+         id="path3120"
+         d="M 674.496,58.5 H 1291.5 v 810 H 674.496 v -810"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3124">
+      <path
+         id="path3126"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3130">
+      <path
+         id="path3132"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3146">
+      <path
+         id="path3148"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3152">
+      <path
+         id="path3154"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3188">
+      <path
+         id="path3190"
+         d="M 674.496,58.5 H 1291.5 v 810 H 674.496 v -810"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3194">
+      <path
+         id="path3196"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3200">
+      <path
+         id="path3202"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3212">
+      <path
+         id="path3214"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3218">
+      <path
+         id="path3220"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3236">
+      <path
+         id="path3238"
+         d="m 674.496,46.50301 h 629.001 V 880.49699 H 674.496 V 46.50301"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3242">
+      <path
+         id="path3244"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3248">
+      <path
+         id="path3250"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3262">
+      <path
+         id="path3264"
+         d="M 0,0 H 1350 V 927 H 0 V 0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3268">
+      <path
+         id="path3270"
+         d="M 0.01416,927.01401 H 1350.0142 V 0 H 0.01416 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5558-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#a99985;fill-opacity:1;fill-rule:evenodd;stroke:#a99985;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9501-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#70798c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9499-5" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5940-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5938-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9475-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2)"
+         style="fill:#dad2bc;fill-opacity:1;fill-rule:evenodd;stroke:#dad2bc;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path9473-8" />
+    </marker>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09447 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09447 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2410" />
+    <linearGradient
+       id="linearGradient3657">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         id="stop3659"
+         offset="0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop3661"
+         offset="1" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09447 : 526.18109 : 1"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       id="perspective2537" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10446">
+      <ellipse
+         style="opacity:0.61111109;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94839156;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(1.1051115,0,0,1.0060477,2154.111,470.87488)"
+         id="path10448"
+         cx="-12.87037"
+         cy="317.56296"
+         rx="235.27037"
+         ry="258.43704" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6476">
+      <ellipse
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(1.1071064,0,0,1.092279,1028.5446,-377.77911)"
+         id="path6478"
+         cx="383.61798"
+         cy="308.21127"
+         rx="234.84645"
+         ry="238.03442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8952">
+      <ellipse
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(3.2072369,0,0,3.6931817,-426.43513,-2204.3204)"
+         id="path8954"
+         cx="-32"
+         cy="800"
+         rx="81.066666"
+         ry="70.400002" />
+    </clipPath>
+    <linearGradient
+       y2="380.60001"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="181.37225"
+       gradientTransform="matrix(1.0792951,0,0,0.8881118,-20.038755,38.584628)"
+       y1="380.60001"
+       x1="172"
+       id="linearGradient3663"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="380.60001"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="176.63603"
+       gradientTransform="matrix(0.8722467,0,0,0.8881119,113.57357,38.584625)"
+       y1="380.60001"
+       x1="172"
+       id="linearGradient7543"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="355.34058"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="277.0733"
+       gradientTransform="matrix(0.8810574,0,0,0.7115385,191.25815,110.83847)"
+       y1="355.34058"
+       x1="279.34586"
+       id="linearGradient7595"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="363.16687"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="386.75909"
+       gradientTransform="matrix(0.8810574,0,0,0.7115385,191.25815,110.83847)"
+       y1="363.16687"
+       x1="385.61801"
+       id="linearGradient7599"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="380.60001"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="176.63603"
+       gradientTransform="matrix(0.8810574,0,0,0.7115385,191.25815,110.83848)"
+       y1="380.59995"
+       x1="173.2485"
+       id="linearGradient7605"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="380.60001"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="176.63603"
+       gradientTransform="matrix(0.8722467,0,0,0.8881119,-799.49312,500.80959)"
+       y1="380.60001"
+       x1="172"
+       id="linearGradient7611"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="355.34058"
+       xlink:href="#linearGradient3657"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="277.0733"
+       gradientTransform="matrix(0.8810574,0,0,0.7115385,-328.74183,720.83847)"
+       y1="355.34058"
+       x1="279.34586"
+       id="linearGradient7623"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath10446-1"
+       clipPathUnits="userSpaceOnUse">
+      <ellipse
+         id="path10448-3"
+         transform="matrix(1.1051115,0,0,1.0060477,2154.111,470.87488)"
+         style="opacity:0.61111109;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94839156;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="-12.87037"
+         cy="317.56296"
+         rx="235.27037"
+         ry="258.43704" />
+    </clipPath>
+    <clipPath
+       id="clipPath6476-1"
+       clipPathUnits="userSpaceOnUse">
+      <ellipse
+         id="path6478-7"
+         transform="matrix(1.1071064,0,0,1.092279,1028.5446,-377.77911)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="383.61798"
+         cy="308.21127"
+         rx="234.84645"
+         ry="238.03442" />
+    </clipPath>
+    <clipPath
+       id="clipPath8952-9"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         id="path8954-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10132587;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="-564.33783"
+         cy="800.23993"
+         r="277.33334" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient7547-1"
+       x1="173.2485"
+       y1="380.59995"
+       gradientTransform="matrix(0.24282612,0,0,0.19610542,-40.264575,114.53546)"
+       x2="176.63603"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient3657"
+       y2="380.60001" />
+    <linearGradient
+       id="linearGradient9558-9"
+       x1="385.61801"
+       y1="363.16687"
+       gradientTransform="matrix(0.93979456,0,0,0.7589744,-769.92911,621.93434)"
+       x2="386.75909"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient3657"
+       y2="363.16687" />
+    <linearGradient
+       id="linearGradient9560-9"
+       x1="172"
+       y1="380.60001"
+       gradientTransform="matrix(1.1512481,0,0,0.94731925,-108.17229,441.44279)"
+       x2="181.37225"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient3657"
+       y2="380.60001" />
+    <linearGradient
+       id="linearGradient9562-4"
+       x1="172"
+       y1="380.60001"
+       gradientTransform="matrix(0.93039648,0,0,0.94731936,-852.79266,544.86356)"
+       x2="176.63603"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient3657"
+       y2="380.60001" />
+    <linearGradient
+       id="linearGradient9564-3"
+       x1="173.2485"
+       y1="380.59995"
+       gradientTransform="matrix(0.93979456,0,0,0.75897429,-769.92911,621.93433)"
+       x2="176.63603"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient3657"
+       y2="380.60001" />
+    <linearGradient
+       id="linearGradient9566-2"
+       x1="279.34586"
+       y1="355.34058"
+       gradientTransform="matrix(0.93979456,0,0,0.7589744,-769.92911,621.93433)"
+       x2="277.0733"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       xlink:href="#linearGradient3657"
+       y2="355.34058" />
+    <clipPath
+       id="clipPath9775"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path9773"
+         d="M 0,0.028 H 595.275 V 841.889 H 0 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#252323"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.4857088"
+     inkscape:cx="306.44395"
+     inkscape:cy="216.11"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2063"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-center="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-text-baseline="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-543.36945,-46.443256)">
+    <rect
+       y="199.42963"
+       x="543.36945"
+       height="74.555298"
+       width="141.32477"
+       id="rect3740"
+       style="opacity:1;vector-effect:none;fill:#54493c;fill-opacity:1;stroke:none;stroke-width:1.02008462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#54493c;fill-opacity:1;stroke:none;stroke-width:1.02008462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3738"
+       width="141.32477"
+       height="41.96286"
+       x="543.36945"
+       y="104.45763" />
+    <rect
+       y="146.42049"
+       x="543.36945"
+       height="53.00914"
+       width="141.32477"
+       id="rect3736"
+       style="opacity:1;vector-effect:none;fill:#404550;fill-opacity:1;stroke:none;stroke-width:1.02008462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#404550;fill-opacity:1;stroke:none;stroke-width:1.02008462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2207"
+       width="141.32477"
+       height="58.014366"
+       x="543.36945"
+       y="46.443256" />
+    <path
+       inkscape:transform-center-y="-6.9217485"
+       inkscape:transform-center-x="1.6425562e-06"
+       d="m 150.16678,371.83912 -23.97767,13.84351 -23.97767,-13.84351 0,-27.68703 23.97767,-13.84351 23.97767,13.84351 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="9.2937307"
+       sodipodi:r1="27.687023"
+       sodipodi:cy="357.99561"
+       sodipodi:cx="126.18911"
+       sodipodi:sides="6"
+       id="path892"
+       style="opacity:1;vector-effect:none;fill:#f5f1ed;fill-opacity:1;stroke:none;stroke-width:1.10980964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:#dad2bc;fill-opacity:1;stroke:none;stroke-width:1.10980964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path894"
+       sodipodi:sides="6"
+       sodipodi:cx="189.18513"
+       sodipodi:cy="357.99561"
+       sodipodi:r1="27.687023"
+       sodipodi:r2="9.2937307"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 213.1628,371.83912 -23.97767,13.84351 -23.97766,-13.84351 0,-27.68703 23.97767,-13.84351 23.97766,13.84351 z"
+       inkscape:transform-center-x="1.6425562e-06"
+       inkscape:transform-center-y="-6.9217485" />
+    <path
+       inkscape:transform-center-y="-6.9217485"
+       inkscape:transform-center-x="1.6425562e-06"
+       d="m 273.32404,372.21711 -23.97767,13.84351 -23.97766,-13.84351 0,-27.68703 23.97766,-13.84351 23.97767,13.84351 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="9.2937307"
+       sodipodi:r1="27.687023"
+       sodipodi:cy="358.3736"
+       sodipodi:cx="249.34637"
+       sodipodi:sides="6"
+       id="path896"
+       style="opacity:1;vector-effect:none;fill:#a99985;fill-opacity:1;stroke:none;stroke-width:1.10980964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:#70798c;fill-opacity:1;stroke:none;stroke-width:1.10980964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path11470"
+       sodipodi:sides="6"
+       sodipodi:cx="66.85527"
+       sodipodi:cy="357.99561"
+       sodipodi:r1="27.687023"
+       sodipodi:r2="9.2937307"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 90.832936,371.83912 -23.977666,13.84351 -23.977665,-13.84351 0,-27.68703 23.977666,-13.84351 23.977665,13.84351 z"
+       inkscape:transform-center-x="1.6425562e-06"
+       inkscape:transform-center-y="-6.9217485" />
+    <g
+       transform="matrix(0.53477954,0,0,-0.53477954,218.43312,177.47634)"
+       id="g3184"
+       style="fill:#000000">
+      <g
+         clip-path="url(#clipPath3188)"
+         id="g3186"
+         style="fill:#000000">
+        <g
+           clip-path="url(#clipPath3194)"
+           id="g3192"
+           style="fill:#000000">
+          <g
+             clip-path="url(#clipPath3200)"
+             id="g3198"
+             style="fill:#000000">
+            <g
+               id="g3204"
+               style="fill:#000000" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9785"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9793"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9801"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9809"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9817"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9825"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9827"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9835"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9843"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9851"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9859"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9867"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9875"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9883"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9891"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9899"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9907"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9915"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9923"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9931"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9939"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9959"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9991"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9999"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10007"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10027"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10041"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10049"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10057"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10065"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10073"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10087"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10095"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10103"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10117"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10125"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10133"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10141"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10149"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10157"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10177"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10185"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10193"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10201"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10209"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10217"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10225"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10233"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10241"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10261"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10293"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10301"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10309"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10329"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10343"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10351"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10359"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10367"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10375"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10389"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10397"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10405"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10413"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10421"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10435"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10443"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10451"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10465"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10473"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10481"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10489"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10497"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10505"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10519"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10533"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10541"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10549"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10557"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10565"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10573"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10581"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10589"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10597"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10617"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10631"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10639"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10647"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10655"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10663"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10671"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10679"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10687"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10695"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10709"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10717"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10725"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10733"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10753"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10761"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10781"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10789"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10797"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10811"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10819"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10827"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10847"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10855"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10875"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10883"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10891"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10899"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10907"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10915"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10929"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10937"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10945"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10959"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10967"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10975"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g10989"
+       transform="matrix(0.35277778,0,0,-0.35277778,479.60146,590.94996)" />
+    <g
+       id="g9779"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,774.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9783">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9781">module</tspan>
+      </text>
+    </g>
+    <g
+       id="g9787"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,774.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9791">
+        <tspan
+           x="0 6 12 18 24 30 36 42 48"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9789">SimpleVGA</tspan>
+      </text>
+    </g>
+    <g
+       id="g9795"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,774.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9799">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan9797">(</tspan>
+      </text>
+    </g>
+    <g
+       id="g9803"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,758.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9807">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9805">input</tspan>
+      </text>
+    </g>
+    <g
+       id="g9811"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,140.8,758.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9815">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9813">wire</tspan>
+      </text>
+    </g>
+    <g
+       id="g9819"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,758.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9823">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9821">clk,</tspan>
+      </text>
+    </g>
+    <g
+       id="g9829"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,726.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9833">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9831">output</tspan>
+      </text>
+    </g>
+    <g
+       id="g9837"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,726.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9841">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9839">wire</tspan>
+      </text>
+    </g>
+    <g
+       id="g9845"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,726.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9849">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9847">hsync,</tspan>
+      </text>
+    </g>
+    <g
+       id="g9853"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,709.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9857">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9855">output</tspan>
+      </text>
+    </g>
+    <g
+       id="g9861"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,709.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9865">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9863">wire</tspan>
+      </text>
+    </g>
+    <g
+       id="g9869"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,709.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9873">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9871">vsync,</tspan>
+      </text>
+    </g>
+    <g
+       id="g9877"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,693.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9881">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9879">output</tspan>
+      </text>
+    </g>
+    <g
+       id="g9885"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,693.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9889">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9887">reg</tspan>
+      </text>
+    </g>
+    <g
+       id="g9893"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,693.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9897">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9895">red,</tspan>
+      </text>
+    </g>
+    <g
+       id="g9901"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,677.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9905">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9903">output</tspan>
+      </text>
+    </g>
+    <g
+       id="g9909"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,677.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9913">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9911">reg</tspan>
+      </text>
+    </g>
+    <g
+       id="g9917"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,677.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9921">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9919">green,</tspan>
+      </text>
+    </g>
+    <g
+       id="g9925"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,661.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9929">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9927">output</tspan>
+      </text>
+    </g>
+    <g
+       id="g9933"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,661.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9937">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9935">reg</tspan>
+      </text>
+    </g>
+    <g
+       id="g9941"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,661.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9945">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9943">blue</tspan>
+      </text>
+    </g>
+    <g
+       id="g9947"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,644.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9951">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9949">);</tspan>
+      </text>
+    </g>
+    <g
+       id="g9953"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,612.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9957">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9955">reg</tspan>
+      </text>
+    </g>
+    <g
+       id="g9961"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,80.8,612.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9965">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan9963">[</tspan>
+      </text>
+    </g>
+    <g
+       id="g9967"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,86.8,612.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9971">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9969">10</tspan>
+      </text>
+    </g>
+    <g
+       id="g9973"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,612.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9977">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan9975">:</tspan>
+      </text>
+    </g>
+    <g
+       id="g9979"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,612.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9983">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan9981">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g9985"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,110.8,612.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9989">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan9987">]</tspan>
+      </text>
+    </g>
+    <g
+       id="g9993"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,122.8,612.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text9997">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan9995">xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10001"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,612.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10005">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10003">=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10009"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,164.8,612.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10013">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10011">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10015"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,612.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10019">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10017">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10021"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,596.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10025">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10023">always</tspan>
+      </text>
+    </g>
+    <g
+       id="g10029"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,596.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10033">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10031">@(</tspan>
+      </text>
+    </g>
+    <g
+       id="g10035"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,110.8,596.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10039">
+        <tspan
+           x="0 6 12 18 24 30 36"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10037">posedge</tspan>
+      </text>
+    </g>
+    <g
+       id="g10043"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,596.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10047">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10045">clk)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10051"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,579.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10055">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10053">if</tspan>
+      </text>
+    </g>
+    <g
+       id="g10059"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,122.8,579.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10063">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10061">(xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10067"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,579.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10071">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10069">==</tspan>
+      </text>
+    </g>
+    <g
+       id="g10075"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,579.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10079">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10077">1039</tspan>
+      </text>
+    </g>
+    <g
+       id="g10081"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,200.8,579.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10085">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10083">)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10089"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,579.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10093">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10091">xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10097"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,242.8,579.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10101">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10099">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10105"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,260.8,579.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10109">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10107">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10111"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,266.8,579.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10115">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10113">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10119"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,563.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10123">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10121">else</tspan>
+      </text>
+    </g>
+    <g
+       id="g10127"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,563.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10131">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10129">xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10135"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,242.8,563.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10139">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10137">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10143"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,260.8,563.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10147">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10145">xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10151"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,290.8,563.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10155">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10153">+</tspan>
+      </text>
+    </g>
+    <g
+       id="g10159"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,302.8,563.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10163">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10161">1</tspan>
+      </text>
+    </g>
+    <g
+       id="g10165"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,308.8,563.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10169">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10167">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10171"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,531.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10175">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10173">assign</tspan>
+      </text>
+    </g>
+    <g
+       id="g10179"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10183">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10181">hsync</tspan>
+      </text>
+    </g>
+    <g
+       id="g10187"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,134.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10191">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10189">=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10195"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10199">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10197">xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10203"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10207">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10205">&lt;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10211"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,188.8,531.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10215">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10213">856</tspan>
+      </text>
+    </g>
+    <g
+       id="g10219"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10223">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10221">||</tspan>
+      </text>
+    </g>
+    <g
+       id="g10227"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,230.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10231">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10229">xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10235"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,260.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10239">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10237">&gt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10243"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,278.8,531.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10247">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10245">976</tspan>
+      </text>
+    </g>
+    <g
+       id="g10249"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,296.8,531.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10253">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10251">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10255"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,498.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#cdcaa9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10259">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10257">reg</tspan>
+      </text>
+    </g>
+    <g
+       id="g10263"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,80.8,498.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10267">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10265">[</tspan>
+      </text>
+    </g>
+    <g
+       id="g10269"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,86.8,498.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10273">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10271">9</tspan>
+      </text>
+    </g>
+    <g
+       id="g10275"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,92.8,498.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10279">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10277">:</tspan>
+      </text>
+    </g>
+    <g
+       id="g10281"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,498.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10285">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10283">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10287"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,498.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10291">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10289">]</tspan>
+      </text>
+    </g>
+    <g
+       id="g10295"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,116.8,498.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10299">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10297">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10303"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,498.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10307">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10305">=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10311"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,498.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10315">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10313">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10317"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,164.8,498.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10321">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10319">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10323"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,482.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10327">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10325">always</tspan>
+      </text>
+    </g>
+    <g
+       id="g10331"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,482.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10335">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10333">@(</tspan>
+      </text>
+    </g>
+    <g
+       id="g10337"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,110.8,482.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10341">
+        <tspan
+           x="0 6 12 18 24 30 36"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10339">posedge</tspan>
+      </text>
+    </g>
+    <g
+       id="g10345"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,482.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10349">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10347">clk)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10353"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,466.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10357">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10355">if</tspan>
+      </text>
+    </g>
+    <g
+       id="g10361"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,122.8,466.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10365">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10363">(xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10369"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,466.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10373">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10371">==</tspan>
+      </text>
+    </g>
+    <g
+       id="g10377"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,466.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10381">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10379">1039</tspan>
+      </text>
+    </g>
+    <g
+       id="g10383"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,200.8,466.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10387">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10385">)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10391"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,466.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10395">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10393">begin</tspan>
+      </text>
+    </g>
+    <g
+       id="g10399"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,449.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10403">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10401">if</tspan>
+      </text>
+    </g>
+    <g
+       id="g10407"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,449.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10411">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10409">(ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10415"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,206.8,449.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10419">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10417">==</tspan>
+      </text>
+    </g>
+    <g
+       id="g10423"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,224.8,449.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10427">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10425">665</tspan>
+      </text>
+    </g>
+    <g
+       id="g10429"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,242.8,449.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10433">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10431">)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10437"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,254.8,449.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10441">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10439">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10445"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,284.8,449.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10449">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10447">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10453"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,302.8,449.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10457">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10455">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10459"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,308.8,449.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10463">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10461">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10467"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,433.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10471">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10469">else</tspan>
+      </text>
+    </g>
+    <g
+       id="g10475"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,254.8,433.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10479">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10477">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10483"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,284.8,433.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10487">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10485">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10491"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,302.8,433.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10495">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10493">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10499"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,332.8,433.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10503">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10501">+</tspan>
+      </text>
+    </g>
+    <g
+       id="g10507"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,344.8,433.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10511">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10509">1</tspan>
+      </text>
+    </g>
+    <g
+       id="g10513"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,350.8,433.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10517">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10515">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10521"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,417.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10525">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10523">end</tspan>
+      </text>
+    </g>
+    <g
+       id="g10527"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,384.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10531">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10529">assign</tspan>
+      </text>
+    </g>
+    <g
+       id="g10535"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10539">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10537">vsync</tspan>
+      </text>
+    </g>
+    <g
+       id="g10543"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,134.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10547">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10545">=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10551"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,146.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10555">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10553">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10559"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10563">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10561">&lt;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10567"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,188.8,384.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10571">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10569">637</tspan>
+      </text>
+    </g>
+    <g
+       id="g10575"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10579">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10577">||</tspan>
+      </text>
+    </g>
+    <g
+       id="g10583"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,230.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10587">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10585">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10591"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,260.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10595">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10593">&gt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10599"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,278.8,384.889)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10603">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10601">643</tspan>
+      </text>
+    </g>
+    <g
+       id="g10605"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,296.8,384.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10609">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10607">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10611"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,352.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10615">
+        <tspan
+           x="0 6 12 18 24 30"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10613">always</tspan>
+      </text>
+    </g>
+    <g
+       id="g10619"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,98.8,352.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10623">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10621">@(</tspan>
+      </text>
+    </g>
+    <g
+       id="g10625"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,110.8,352.389)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10629">
+        <tspan
+           x="0 6 12 18 24 30 36"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10627">posedge</tspan>
+      </text>
+    </g>
+    <g
+       id="g10633"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,352.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10637">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10635">clk)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10641"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,336.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10645">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10643">if</tspan>
+      </text>
+    </g>
+    <g
+       id="g10649"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,122.8,336.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10653">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10651">(xpos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10657"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,336.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10661">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10659">&lt;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10665"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,170.8,336.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10669">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10667">800</tspan>
+      </text>
+    </g>
+    <g
+       id="g10673"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,194.8,336.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10677">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10675">&amp;&amp;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10681"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,336.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10685">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10683">ypos</tspan>
+      </text>
+    </g>
+    <g
+       id="g10689"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,242.8,336.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10693">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10691">&lt;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10697"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,254.8,336.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10701">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10699">600</tspan>
+      </text>
+    </g>
+    <g
+       id="g10703"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,272.8,336.189)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10707">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10705">)</tspan>
+      </text>
+    </g>
+    <g
+       id="g10711"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,284.8,336.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10715">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10713">begin</tspan>
+      </text>
+    </g>
+    <g
+       id="g10719"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,319.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10723">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10721">red</tspan>
+      </text>
+    </g>
+    <g
+       id="g10727"
+       transform="matrix(0.36264935,0,0,-0.36264935,556.71252,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,176.8,319.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10731">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10729">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10783"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,303.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10787">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10785">green</tspan>
+      </text>
+    </g>
+    <g
+       id="g10791"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,188.8,303.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10795">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10793">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10799"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,206.8,303.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10803">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10801">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10813"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,287.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10817">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10815">blue</tspan>
+      </text>
+    </g>
+    <g
+       id="g10821"
+       transform="matrix(0.36264935,0,0,-0.36264935,554.53663,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,182.8,287.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10825">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10823">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g21832"
+       transform="translate(2.1758961,-11.786104)">
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10829">
+        <text
+           id="text10833"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,200.8,287.389)">
+          <tspan
+             id="tspan10831"
+             sodipodi:role="line"
+             y="0"
+             x="0 6 12 18 24 30">~xpos[</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10835">
+        <text
+           id="text10839"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,236.8,287.389)">
+          <tspan
+             id="tspan10837"
+             y="0"
+             x="0">5</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10841">
+        <text
+           id="text10845"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,242.8,287.389)">
+          <tspan
+             id="tspan10843"
+             y="0"
+             x="0">]</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10849">
+        <text
+           id="text10853"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,254.8,287.389)">
+          <tspan
+             id="tspan10851"
+             y="0"
+             x="0">^</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10857">
+        <text
+           id="text10861"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,266.8,287.389)">
+          <tspan
+             id="tspan10859"
+             sodipodi:role="line"
+             y="0"
+             x="0 6 12 18 24">ypos[</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10863">
+        <text
+           id="text10867"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,296.8,287.389)">
+          <tspan
+             id="tspan10865"
+             y="0"
+             x="0">5</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10869">
+        <text
+           id="text10873"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,302.8,287.389)">
+          <tspan
+             id="tspan10871"
+             sodipodi:role="line"
+             y="0"
+             x="0 6">];</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g10877"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,271.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10881">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10879">end</tspan>
+      </text>
+    </g>
+    <g
+       id="g10885"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,128.8,271.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10889">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10887">else</tspan>
+      </text>
+    </g>
+    <g
+       id="g10893"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,158.8,271.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10897">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10895">begin</tspan>
+      </text>
+    </g>
+    <g
+       id="g10901"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,254.889)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10905">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10903">red</tspan>
+      </text>
+    </g>
+    <g
+       id="g21843"
+       transform="translate(4.3517922)">
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10909">
+        <text
+           id="text10913"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,176.8,254.889)">
+          <tspan
+             id="tspan10911"
+             sodipodi:role="line"
+             y="0"
+             x="0 6">&lt;=</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10917">
+        <text
+           id="text10921"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,194.8,254.889)">
+          <tspan
+             id="tspan10919"
+             y="0"
+             x="0">0</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10923">
+        <text
+           id="text10927"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,200.8,254.889)">
+          <tspan
+             id="tspan10925"
+             y="0"
+             x="0">;</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g10931"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,238.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10935">
+        <tspan
+           x="0 6 12 18 24"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10933">green</tspan>
+      </text>
+    </g>
+    <g
+       id="g10939"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,188.8,238.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10943">
+        <tspan
+           x="0 6"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10941">&lt;=</tspan>
+      </text>
+    </g>
+    <g
+       id="g10947"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,206.8,238.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10951">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10949">0</tspan>
+      </text>
+    </g>
+    <g
+       id="g10953"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,212.8,238.689)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10957">
+        <tspan
+           x="0"
+           y="0"
+           id="tspan10955">;</tspan>
+      </text>
+    </g>
+    <g
+       id="g10961"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,152.8,222.389)"
+         style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10965">
+        <tspan
+           x="0 6 12 18"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10963">blue</tspan>
+      </text>
+    </g>
+    <g
+       id="g21854"
+       transform="translate(2.1758961)">
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10969">
+        <text
+           id="text10973"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,182.8,222.389)">
+          <tspan
+             id="tspan10971"
+             sodipodi:role="line"
+             y="0"
+             x="0 6">&lt;=</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10977">
+        <text
+           id="text10981"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,200.8,222.389)">
+          <tspan
+             id="tspan10979"
+             y="0"
+             x="0">0</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)"
+         id="g10983">
+        <text
+           id="text10987"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1,0,0,-1,206.8,222.389)">
+          <tspan
+             id="tspan10985"
+             y="0"
+             x="0">;</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g10991"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,104.8,206.189)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text10995">
+        <tspan
+           x="0 6 12"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10993">end</tspan>
+      </text>
+    </g>
+    <g
+       id="g10997"
+       transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+      <text
+         transform="matrix(1,0,0,-1,56.8,173.689)"
+         style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#fb660a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text11001">
+        <tspan
+           x="0 6 12 18 24 30 36 42 48"
+           y="0"
+           sodipodi:role="line"
+           id="tspan10999">endmodule</tspan>
+      </text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.79333115px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#f5f1ed;fill-opacity:1;stroke:none;stroke-width:0.89483327"
+       x="550.37561"
+       y="87.978104"
+       id="text3744"><tspan
+         sodipodi:role="line"
+         id="tspan3742"
+         x="550.37561"
+         y="87.978104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#f5f1ed;fill-opacity:1;stroke-width:0.89483327">1</tspan></text>
+    <text
+       id="text3748"
+       y="138.14569"
+       x="550.37561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.79333115px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#f5f1ed;fill-opacity:1;stroke:none;stroke-width:0.89483327"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#f5f1ed;fill-opacity:1;stroke-width:0.89483327"
+         y="138.14569"
+         x="550.37561"
+         id="tspan3746"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.79333115px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#f5f1ed;fill-opacity:1;stroke:none;stroke-width:0.89483327"
+       x="550.37561"
+       y="185.45273"
+       id="text3752"><tspan
+         sodipodi:role="line"
+         id="tspan3750"
+         x="550.37561"
+         y="185.45273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#f5f1ed;fill-opacity:1;stroke-width:0.89483327">3</tspan></text>
+    <text
+       id="text3756"
+       y="249.23494"
+       x="550.37561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.79333115px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#f5f1ed;fill-opacity:1;stroke:none;stroke-width:0.89483327"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';fill:#f5f1ed;fill-opacity:1;stroke-width:0.89483327"
+         y="249.23494"
+         x="550.37561"
+         id="tspan3754"
+         sodipodi:role="line">4</tspan></text>
+    <g
+       transform="translate(6.5276883,11.786104)"
+       id="g22002">
+      <g
+         id="g21964"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,194.8,319.889)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21962">
+          <tspan
+             x="0 6 12 18 24"
+             y="0"
+             sodipodi:role="line"
+             id="tspan21960">xpos[</tspan>
+        </text>
+      </g>
+      <g
+         id="g21970"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,224.8,319.889)"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21968">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan21966">5</tspan>
+        </text>
+      </g>
+      <g
+         id="g21976"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,230.8,319.889)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21974">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan21972">]</tspan>
+        </text>
+      </g>
+      <g
+         id="g21982"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,242.8,319.889)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21980">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan21978">^</tspan>
+        </text>
+      </g>
+      <g
+         id="g21988"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,254.8,319.889)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21986">
+          <tspan
+             x="0 6 12 18 24"
+             y="0"
+             sodipodi:role="line"
+             id="tspan21984">ypos[</tspan>
+        </text>
+      </g>
+      <g
+         id="g21994"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,284.8,319.889)"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono-Bold;writing-mode:lr-tb;fill:#0086f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21992">
+          <tspan
+             x="0"
+             y="0"
+             id="tspan21990">5</tspan>
+        </text>
+      </g>
+      <g
+         id="g22000"
+         transform="matrix(0.36264935,0,0,-0.36264935,552.36073,333.571)">
+        <text
+           transform="matrix(1,0,0,-1,290.8,319.889)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'IBM Plex Mono';-inkscape-font-specification:IBMPlexMono;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text21998">
+          <tspan
+             x="0 6"
+             y="0"
+             sodipodi:role="line"
+             id="tspan21996">];</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

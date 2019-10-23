@@ -1,0 +1,73 @@
+PERSONS, Various. What are some examples of non-Von Neumann architectures?. StackOverflow. 2012, https://stackoverflow.com/questions/1806490/what-are-some-examples-of-non-von-neumann-architectures. 
+Implementing FPGA design with the OpenCL standard. Altera. 2013, https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/wp/wp-01173-opencl.pdf. 
+Cyclone V Device Handbook: Volume 1: Device Interfaces and Integration, Logic Array Blocks and Adaptive Logic Modules in Cyclone V Devices. Altera, Intel. 2019, https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/cyclone-v/cv_5v2.pdf. 
+Cyclone V Device Datasheet. Altera, Intel. 2019, https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/cyclone-v/cv_51002.pdf. 
+ARENAS, Aaron. Introduction to FPGA design in Quartus. Intel. 2018, https://fpgawiki.intel.com/uploads/0/07/Intro_to_FPGA_Workshop_Slides.pdf. 
+FPGA vs CPU vs GPU vs Microcontroller. Arrow. 2018, https://static4.arrow.com/-/media/images/research-and-events/articles/1018
+/arrow_fpgavscpuvsgpuvsmicrocontroller.pdf. 
+. What is the difference between a von Neumann architecture and a Harvard architecture?. ARM Limited. 2008, http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.faqs/ka3839.html. 
+BitFusion, the elastic AI infrastructure for multi-cloud. BitFusion. 2019, https://bitfusion.io/. 
+CARTON, Olivier. Transistors et portes logiques. Institut de Recherche en Informatique Fondamentale. 2006, https://www.irif.fr/ carton/Enseignement/Architecture/Cours/Gates/. 
+CASTELLS-RUFAS, David. Workshop: programming FPGAs with OpenCL. Cephis. 2018, http://www.sie.es/wp-content/uploads/2018/06/FPGA-with-OpenCL.pdf. 
+KATHERINE COMPTON, Scott Hauck. Reconfigurable computing: a survey of systems and software. ACM Computing Surveys. 2002, https://people.ece.uw.edu/hauck/publications/ConfigCompute.pdf. 
+Kit d’apprentissage de l’électronique pour débutants. Conrad. 2009, https://produktinfo.conrad.com/datenblaetter/175000-199999/192230-an-01-fr-LERNPAKET_25_ELEKTRONIK_EXPERIMENTE.pdf. 
+COX, Russ. The MOS 6502 and the Best Layout Guy in the World. 2011, https://research.swtch.com/6502. 
+CULVER, John. How a CPU Microprocessor is made. The CPU Shack. http://www.cpushack.com/MakingWafers.html. 
+JEFF DEAN, Urs Hölzle. Build and train machine learning models on our new Google Cloud TPUs. Google. 2017, https://blog.google/products/google-cloud/google-cloud-offer-tpus-machine-learning/. 
+DENISENKO, Dmitry. OpenCL for FPGAs. Intel. 2016, https://cpufpga.files.wordpress.com/2016/04/opencl_for_fpgas_isca_2016.pdf. 
+DUBUC, Damien. Afin de terminer notre série de billets, voici quelques réflexions et perspectives que nous ressortons de l’étude. Aneo. 2018, https://www.aneo.eu/2018/02/06/perspectives-quant-a-lutilisation-fpga-chez-aneo-billet-8/. 
+EIJKHOUT, Victor. Are there alternatives to the Von Neumann architecture?. Quora. 2016, https://www.quora.com/Are-there-alternatives-to-the-Von-Neumann-architecture. 
+Electrically Erasable Programmable Logic PEEL 18CV8. Gould Electronics. 2013, https://www.datasheetarchive.com/pdf/download.php?id=3ae6b7f4f1c26b281f249beac3c15d411ba916&type=O. 
+FEUGEY, David. Altera mise sur l’OpenCL pour révolutionner le monde des FPGA. 2011, https://www.silicon.fr/altera-mise-sur-l%E2%80%99opencl-pour-revolutionner-le-monde-des-fpga-65255.html. 
+FOUQUET-LAPAR, Matthias. The von Neumann Architecture and Alternatives. SGI. 2008, https://wwz.ifremer.fr/pcdm/content/download/29481/407627/file/mfl.pdf. 
+FRANZ, Kaitlyn. History of the FPGA. Digilent Inc. 2015, https://blog.digilentinc.com/history-of-the-fpga/. 
+H. FREEMAN, Ross. Configurable electrical circuit having configurable logic elements and configurable interconnects. patentus. US4870302A. 1989.
+
+E. GONZALEZ, Ricardo. A Software Configurable Processor. Stretch Inc. 2005, https://pdfs.semanticscholar.org/89ad/640a6e704844a0098278e79a8ef06a934c62.pdf. 
+Field Programmable Gate Array (FPGA) History and Applications. Hardwarebee. 2018, http://hardwarebee.com/field-programmable-gate-array-fpga-history-applications/. 
+HARRIS, Derrick. Microsoft is building fast, low-power neural networks with FPGAs. GigaOM. 2015, https://gigaom.com/2015/02/23/microsoft-is-building-fast-low-power-neural-networks-with-fpgas/. 
+HIGGINBOTHAM, Stacey. Why Intel will spend $16.7 billion on Altera. Fortune. 2015, http://fortune.com/2015/08/27/why-intel-altera/. 
+HIGGINBOTHAM, Stacey. Why Microsoft is building programmable chips that specialize in search. GigaOM. 2014, https://gigaom.com/2014/06/16/why-microsoft-is-building-programmable-chips-that-specialize-in-search/. 
+HINDRIKSEN, Vincent. Why use OpenCL on FPGAs?. StreamHPC. 2014, https://streamhpc.com/blog/2014-09-16/use-opencl-fpgas/. 
+BR y HKALLAHER, on. PAL vs. CPLD vs. FPGA. Digilent Blog. 2016, https://blog.digilentinc.com/pal-vs-cpld-vs-fpga/. 
+Intel completes acquisition of Altera. Intel. 2015, https://newsroom.intel.com/news-releases/intel-completes-acquisition-of-altera/. 
+JEFF CHASE, Brent Nelson y DAH-JYE LEE, . Real-Time Optical Flow Calculations on FPGA and GPU Architectures: AComparison Study. Brigham Young University. 2009, https://www.researchgate.net/profile/Lee_Dah-Jye/publication/224362818_Real-Time_Optical_Flow_Calculations_on_FPGA_and_GPU_Architectures_A_Comparison_Study/links/0c9605327135c229e0000000.pdf. 
+DAVID H. JONES, Adam Powell. GPU versus FPGA for high productivity computing. Imperial College London. 2010, http://cas.ee.ic.ac.uk/people/ccb98/papers/DavidFPL10.pdf. 
+B. KAHNG, A. y C. PATI,  Y.. Subwavelength optical lithography, challenges and impact on physical design. UCLA Department of Computer Science and Numerical Technologies, Inc. 1999, https://vlsicad.ucsd.edu/Publications/Conferences/94/c94.pdf. 
+KALAROT, Ratheesh y JOHN MORRIS, . Comparison of FPGA and GPU implementations of Real-time Stereo Vision. The University of Auckland / IEEE. 2010, https://www.researchgate.net/profile/John_Morris25/publication/224165460_Comparison_of_FPGA_and_GPU_implementations_of_real-time_stereo_vision/links/0f317539b0c42b50be000000.pdf. 
+IOT KIDD, Taylor. Why P scales a C*V^2*f is so obvious. Intel Developer Zone. 2009, https://software.intel.com/en-us/blogs/2009/06/29/why-p-scales-as-cv2f-is-so-obvious. 
+IOT KIDD, Taylor. Why P scales as C*V^2*f is so obvious (pt 2). Intel Developer Zone. 2015, https://software.intel.com/en-us/blogs/2009/08/25/why-p-scales-as-cv2f-is-so-obvious-pt-2-2. 
+MCGRATH, Dylan. FPGA startups stare down giants and ghosts. Electronic Engineering Times. 2009, https://www.eetimes.com/document.asp?doc_id=1263547. 
+MCMILLAN, John. PCB design then and now. Mentor, a Siemens Business. 2015, https://blogs.mentor.com/jimmartens/blog/2015/07/14/pcb-design-then-and-now/. 
+MILLER, Warren. Configurable processors as an alternative to FPGAs. Electronic Engineering Times. 2013, https://www.eetimes.com/author.asp?section_id=36&doc_id=1318804. 
+ANDREW MOORE, Ron Wilson. FPGAs for Dummies. Intel. 2017. 
+EARLE MOORE, Gordon. Cramming more components onto integrated circuits. Fairchild Semiconductor. 1965, https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf. 
+EARLE MOORE, Gordon. Progress in digital integrated electronics. Intel. 1975, https://www.eng.auburn.edu/ agrawvd/COURSE/E7770_Spr07/READ/Gordon_Moore_1975_Speech.pdf. 
+Oral history panel on the development and promotion of the Motorola 68000. Computer History Museum. 2007, https://archive.computerhistory.org/resources/access/text/2012/04/102658164-05-01-acc.pdf. 
+Altera EP300 Design & Development Oral History Panel. Computer History Museum. 2009, https://archive.computerhistory.org/resources/access/text/2012/10/102702147-05-01-acc.pdf. 
+NENNI, Daniel. A Brief History of FPGAs. 2012, https://semiwiki.com/fpga/1596-a-brief-history-of-fpgas/. 
+KALIN OVTCHAROV, Olatunji Ruwase. Accelerating deep convolutional neural networks using specialized hardware. Microsoft Research. 2015, https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CNN20Whitepaper.pdf. 
+GÓMEZ PRADO, Daniel Francisco. Tutorial on FPGA routing. University of Massachusetts. 2006, http://sisbib.unmsm.edu.pe/bibvirtualdata/publicaciones/electronica/n17_2006/a04.pdf. 
+REESE, Lynnette. Comparing hardware for artificial intelligence: FPGAs vs. GPUs vs. ASICs. Embedded Intel Solutions. 2018, https://eecatalog.com/intel/2018/07/24/comparing-hardware-for-artificial-intelligence-fpgas-vs-gpus-vs-asics/. 
+KAZ SATO, Cliff Young. An in-depth look at Google’s first Tensor Processing Unit (TPU). Google. 2017, https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu. 
+E. SCHÜLER, Tim Helfers. XPP - eXtreme Processing Platform Technology for space applications. PACT, Astrium. 2001, http://spacewire.esa.int/WG/Data-Systems/OPDP-proceedings/Presentations/session%20II.B/3_Astrium_XPP_Helfers.pdf. 
+ABU SEBASTIAN, Tomas Tuma y REOU, Manuel Le Gallo. Temporal correlation detection using computational phase-change memory. Nature communications. 2017, https://www.nature.com/articles/s41467-017-01481-9. 
+EDITORIAL STAFF, IBM Research. IBM Scientists Demonstrate Mixed-Precision In-Memory Computing for the First Time; Hybrid Design for AI Hardware. IBM Research Blog. 2018, https://www.ibm.com/blogs/research/2018/04/ibm-scientists-demonstrate-mixed-precision-in-memory-computing-for-the-first-time-hybrid-design-for-ai-hardware/. 
+EDITORIAL STAFF, IBM Research. IBM Scientifs Demonstrate In-memory Computing with 1 Million Devices for Applications in AI. IBM Research Blog. 2017, https://www.ibm.com/blogs/research/2017/10/ibm-scientists-demonstrate-memory-computing-1-million-devices-applications-ai/. 
+SUGARMAN, Robert. "Does the country need a good $20 micrprocessor?". The Engineering Newspaper for the Electronics Industry. 1975, 
+"Les grands mythes fondateurs" des nanos : la loi de Moore ou l'héritage du talk de Feynman de 1959. UNIT (Université Numérique Ingénierie et Technologie). 2015, http://www.unit.eu/cours/enjeux-nanosciences-nanotechnologies/Module3-FR.pdf. 
+THORNTON, Scott. What's the difference between Von-Neumann and Harvard architectures?. Microcontroller Tips. 2018, https://www.microcontrollertips.com/difference-between-von-neumann-and-harvard-architectures/. 
+Cilbr8tor Series. Ucamco, former Barco ETS. 2016, https://www.ucamco.com/en/hardware/photoplotters/calibr8tor/calibr8tor-series. 
+UNKNOWN. 6502 Schematic. Unknown. 2007, https://downloads.reactivemicro.com/Electronics/CPU/6502%20Schematic.pdf. 
+VANDREI. Von Neumann vs Harvard architecture. StackOverflow. 2014, https://stackoverflow.com/questions/26826248/von-neumann-vs-harvard-architecture. 
+VAŠUT, Marek. Open-Source Tools for FPGA Development. DENX Software Engineering, The Linux Foundation. 2016, https://www.youtube.com/watch?v=MI18Wk4gxA4. 
+H. VEEN, Arthur. Dataflow machine architecture. ACM Computing Surveys. 1986, https://www.researchgate.net/publication/220566271. 
+VERRY, Tim. Apple’s A6 processor uses hand drawn ARM cores to boost performance. PC Perspective. 2012, https://pcper.com/2012/09/apples-a6-processor-uses-hand-drawn-arm-cores-to-boost-performance/. 
+Infineon et NXP devant STMicroelectronics au 1er trimestre 2019. ViPress.net. 2019, https://www.vipress.net/infineon-et-nxp-devant-stmicroelectronics-au-1er-trimestre-2019/. 
+Computers for electronic and mechanical engineering. Museum Waalsdorp. 2019, https://www.museumwaalsdorp.nl/en/history/comphistory/computer-history-the-period-1986-1989/comp866e/. 
+WAITE, Mitchell. Computer Graphics Primer. Howard W. Sams & Co., Inc.. 1979. 
+WAYNE WOLF, Ahmed Amine Jerraya y GRANT MARTIN, . Multiprocessor System-on-Chip (MPSoC) Technology. IEEE. 2008, http://www.cs.unc.edu/ montek/teaching/Comp790-Fall11/Home/Home_files/2008Wolf.pdf. 
+WEBER, Charles, NEIL BERGLUND,  C. y PATRICIA GABELLA, . Mask cost and profitability in photomask manufacturing, an empirical analysis. Portland State University. 2006, http://web.pdx.edu/ webercm/documents/2006%20November%20IEEE%20TSM%20Weber%20Berglund%20Gabella.pdf. 
+E. WEISBERG, David. The Engineering Design Revolution. 2008, http://www.cadhistory.net/11%20CALMA.pdf. 
+P.A. Semi. Wikipedia. 2013, https://en.wikipedia.org/wiki/P.A._Semi. 
+ZOLTAN BARUCH, Octavian Creţ y KALMAN PUSZTAI, . Configurable processor. Technical University of Cluj-Napoca. 2002, https://www.researchgate.net/publication/229001961_CONFIGURABLE_PROCESSOR. 
